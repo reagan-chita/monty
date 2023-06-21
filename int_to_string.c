@@ -1,6 +1,6 @@
 /*
  * File: int_to_string.c
- * Auth: Reagan Chita
+ * Auth: Reagan Chita and Ackson Mutuma
  */
 
 #include <stdlib.h>

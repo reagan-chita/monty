@@ -163,7 +163,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Reagan Chita** - [@bdbaraban](https://github.com/reagan-chita)
+* **Reagan Chita** - [@reagan-chita](https://github.com/reagan-chita)
 
 
 

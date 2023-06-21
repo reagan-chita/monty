@@ -1,6 +1,6 @@
 /*
  * File: set_op_tok_error.c
- * Auth: Reagan Chita
+ * Auth: Reagan Chita and Ackson Mutuma
  */
 
 #include "monty.h"

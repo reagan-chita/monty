@@ -158,16 +158,14 @@ $ cd Betty; ./install.sh
 ```
 
 
-## :pencil: Version
 
-* 0.1.0
 
 
 ## :blue_book: Authors
 
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
+* **Reagan Chita** - [@bdbaraban](https://github.com/reagan-chita)
 
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+
 
 
 ## :mag: License
@@ -175,11 +173,8 @@ $ cd Betty; ./install.sh
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
-## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
-* Stack Overflow (help on various memory errors (not leaks))
 
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png">
-</p>
+
+
+

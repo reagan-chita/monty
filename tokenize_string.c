@@ -1,6 +1,6 @@
 /*
  * File: tokenize_string.c
- * Auth: Reagan
+ * Auth: Mr Reagan and Ackson Mutuma
  */
 
 #include <stdlib.h>

@@ -14,7 +14,7 @@ $ sudo apt-get install git
 Clone the repository into a new directory:
 
 ```
-$ git clone https://github.com/BennettDixon/monty.git
+$ git clone https://github.com/reagan-chita/monty.git
 ```
 Compile with the following:
 

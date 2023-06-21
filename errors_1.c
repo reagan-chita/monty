@@ -35,7 +35,7 @@ int malloc_error(void)
 }
 
 /**
- * f_open_error - Prints file opening error messages w/ file name.
+ * f_open_error - Prints file opening error messages.
  * @filename: Name of file failed to open
  *
  * Return: (EXIT_FAILURE) always.
@@ -49,7 +49,7 @@ int f_open_error(char *filename)
 /**
  * unknown_op_error - Prints unknown instruction error messages.
  * @opcode: Opcode where error occurred.
- * @line_number: Line number in Monty bytecodes file where error occured.
+ * @line_number: Line number in Monty bytecodes file where error take place.
  *
  * Return: (EXIT_FAILURE) always.
  */
@@ -62,7 +62,7 @@ int unknown_op_error(char *opcode, unsigned int line_number)
 
 /**
  * no_int_error - Prints invalid monty_push argument error messages.
- * @line_number: Line number in Monty bytecodes file where error occurred.
+ * @line_number: Line number in Monty bytecodes file where error take place.
  *
  * Return: (EXIT_FAILURE) always.
  */
